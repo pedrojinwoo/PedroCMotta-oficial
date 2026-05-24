@@ -1,7 +1,7 @@
 <h1>Pedro Motta</h1>
 
 - WebDev com foco em Javascript + C
-- UFRRJ - Ciência da Computação (3 - 8)
+- UFRRJ - Ciência da Computação (5 - 8)
 - https://www.instagram.com/pedrooomtt/
 
 <!---
