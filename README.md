@@ -18,6 +18,3 @@ Seeking **volunteer opportunities** to apply my software engineering skills to s
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Prolog](https://img.shields.io/badge/Prolog-F29D00?style=for-the-badge&logo=prolog&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-### 📬 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocostadamotta/)
