@@ -1,25 +1,23 @@
-# Hi there, I'm Pedro
+# Hi, I'm Pedro! 👋
 
-I am a Computer Science student at UFRRJ driven by a competitive instinct for self-improvement and a non-negotiable passion for building things. My journey with programming began in 2017  with Python, and it unlocked a drive to create that I haven't been able to turn off since.
+I'm a Computer Science student at **UFRRJ** driven by a passion for building, optimizing, and solving the hidden problems most people don't even realize exist. 
 
-For me, software engineering isn't just about typing lines of text. It's about leveraging logical reasoning to genuinely improve people's lives and solve complex problems.
+### 🎮 The "Micro" Mindset
+I'm a semi-professional **Hollow Knight** player and I thrive on high-execution games like *Geometry Dash*, *Touhou*, and competitive fighters. That intense focus and resilience translates directly to my code: **I try, I fail, I learn, and I iterate until the limit is shattered.** If a system needs optimizing, I simply do not stop until it's done.
 
-## Academic Depth & Math "Side Quests"
+### 🧠 Math Side-Quests & Depth
+I chose the rigorous academic route over quick bootcamps because I want to understand technology at its absolute core. That pursuit of depth comes with a love for pure logic, leading me to take advanced math classes like **Calculus 4** and **Real Analysis 1** just for the challenge.
 
-While the tech industry often pushes the "quick bootcamp" narrative, I consciously chose the opposite route. I want to understand technology at it's core. That pursuit of real technical depth comes with a heavy semi-passion for pure mathematics. Even though they aren't strictly required for standard developer roles, you'll often find me taking on classes like **Calculus 4** or **Real Analysis** simply because I love the rigorous quantitative and logical background they provide.
+### 🌱 Currently
+Seeking **volunteer opportunities** to apply my software engineering skills to social impact projects alongside dedicated teams.
 
-## The "micro" mindset
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Prolog](https://img.shields.io/badge/Prolog-F29D00?style=for-the-badge&logo=prolog&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-If you want to understand how I approach life and code, look at the games I play. I am a semi-professional **Hollow Knight** player. I thrive on "micro" games that demand intense focus, split-second reflexes, and absolute precision - like **Geometry Dash** and **Touhou**.
-
-That exact mentality translates directly to my software development. The loop is the same: *I try,, I fail, I learn, and I repeat until I shatter my own limits*. If a system can be optimized or a tough architectural challenge needs solving, I bring that absolute grit. I simply do not stop until I deliver the result I set out to achieve.
-
-## 🌱 What I'm Up To
-* **Studying:** B.S. in Computer Science at UFRRJ.
-* **Seeking:** Actively looking for **volunteer opportunities** in tech where I can apply my software engineering skills to social impact projects and grow alongside dedicated teams.
-* **Tinkering:** Constantly optimizing everything I touch.
-
-<!---
-PedroCMotta-oficial/PedroCMotta-oficial is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 📬 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedrocostadamotta/)
