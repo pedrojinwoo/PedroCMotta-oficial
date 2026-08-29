@@ -8,9 +8,6 @@ I'm a semi-professional **Hollow Knight** player and I thrive on high-execution 
 ### 🧠 Math Side-Quests & Depth
 I chose the rigorous academic route over quick bootcamps because I want to understand technology at its absolute core. That pursuit of depth comes with a love for pure logic, leading me to take advanced math classes like **Calculus 4** and **Real Analysis 1** just for the challenge.
 
-### 🌱 Currently
-Seeking **volunteer opportunities** to apply my software engineering skills to social impact projects alongside dedicated teams.
-
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
