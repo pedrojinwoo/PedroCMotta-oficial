@@ -1,6 +1,6 @@
 # Hi, I'm Pedro! 👋
 
-I'm a Computer Science student at **UFRRJ** driven by a passion for building, optimizing, and solving the hidden problems most people don't even realize exist. 
+Computer Science student at UFRRJ driven by mathematical rigor and scientific computing. I love leveraging machine learning, signal processing, and graph theory to design high-reliability models that optimize systems and predict hidden anomalies before they turn into real-world failures. 
 
 ### 🎮 The "Micro" Mindset
 I'm a semi-professional **Hollow Knight** player and I thrive on high-execution games like *Geometry Dash*, *Touhou*, and competitive fighters. That intense focus and resilience translates directly to my code: **I try, I fail, I learn, and I iterate until the limit is shattered.** If a system needs optimizing, I simply do not stop until it's done.
